@@ -1,5 +1,3 @@
-# amex_campus_superbowl
-
 # Merchant Selection for Minimum Organic Activations
 
 ## Overview
